@@ -1,9 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "Uymf2QPvrJzBsw5Cb3Qot2clzOpvpiVVHmDFc+5E669Xf6LmDYb1W6ZeT1Ku90zkGhFbfcIuGwmaeKkT3OWjhA==",
+  "dgSpecHash": "8x+BCub05RcPrksJx9YQKDLltHZ9zDDApzzzQMmdSx24IAoXfdkI3nFKyj8BB/IZs2cwZfUs935owUgi6h1QRQ==",
   "success": true,
   "projectFilePath": "D:\\workspaces\\MicroservicesWithRabbitMQ\\MicroRabbit\\MicroRabbit.Domain.Core\\MicroRabbit.Domain.Core.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\zeu\\.nuget\\packages\\mediatr\\8.0.1\\mediatr.8.0.1.nupkg.sha512",
     "C:\\Users\\zeu\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
     "C:\\Users\\zeu\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
   ],
