@@ -1,0 +1,10 @@
+D:\workspaces\MicroservicesWithRabbitMQ\MicroRabbit\MicroRabbit.Banking.Api\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\workspaces\MicroservicesWithRabbitMQ\MicroRabbit\MicroRabbit.Banking.Api\bin\Debug\netcoreapp3.1\appsettings.json
+D:\workspaces\MicroservicesWithRabbitMQ\MicroRabbit\MicroRabbit.Banking.Api\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+D:\workspaces\MicroservicesWithRabbitMQ\MicroRabbit\MicroRabbit.Banking.Api\bin\Debug\netcoreapp3.1\MicroRabbit.Banking.Api.exe
+D:\workspaces\MicroservicesWithRabbitMQ\MicroRabbit\MicroRabbit.Banking.Api\obj\Debug\netcoreapp3.1\MicroRabbit.Banking.Api.csprojAssemblyReference.cache
+D:\workspaces\MicroservicesWithRabbitMQ\MicroRabbit\MicroRabbit.Banking.Api\obj\Debug\netcoreapp3.1\MicroRabbit.Banking.Api.AssemblyInfoInputs.cache
+D:\workspaces\MicroservicesWithRabbitMQ\MicroRabbit\MicroRabbit.Banking.Api\obj\Debug\netcoreapp3.1\MicroRabbit.Banking.Api.AssemblyInfo.cs
+D:\workspaces\MicroservicesWithRabbitMQ\MicroRabbit\MicroRabbit.Banking.Api\obj\Debug\netcoreapp3.1\MicroRabbit.Banking.Api.RazorTargetAssemblyInfo.cache
+D:\workspaces\MicroservicesWithRabbitMQ\MicroRabbit\MicroRabbit.Banking.Api\obj\Debug\netcoreapp3.1\staticwebassets\MicroRabbit.Banking.Api.StaticWebAssets.Manifest.cache
+D:\workspaces\MicroservicesWithRabbitMQ\MicroRabbit\MicroRabbit.Banking.Api\obj\Debug\netcoreapp3.1\staticwebassets\MicroRabbit.Banking.Api.StaticWebAssets.xml
