@@ -1,4 +1,0 @@
-D:\workspaces\MicroservicesWithRabbitMQ\MicroRabbit\MicroRabbit.Infra.IoC\bin\Debug\netstandard2.0\MicroRabbit.Infra.IoC.deps.json
-D:\workspaces\MicroservicesWithRabbitMQ\MicroRabbit\MicroRabbit.Infra.IoC\bin\Debug\netstandard2.0\MicroRabbit.Infra.IoC.dll
-D:\workspaces\MicroservicesWithRabbitMQ\MicroRabbit\MicroRabbit.Infra.IoC\obj\Debug\netstandard2.0\MicroRabbit.Infra.IoC.AssemblyInfoInputs.cache
-D:\workspaces\MicroservicesWithRabbitMQ\MicroRabbit\MicroRabbit.Infra.IoC\obj\Debug\netstandard2.0\MicroRabbit.Infra.IoC.AssemblyInfo.cs

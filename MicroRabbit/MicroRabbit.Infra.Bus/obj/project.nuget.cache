@@ -1,18 +1,14 @@
 {
   "version": 2,
-  "dgSpecHash": "SJgxSlaCd0fL4yQc/vQ7iCKKP6vypvW9i/UsN4+AgU4WmfKqavCNPuNI3GCML/UDH55ojYzWwgBi4Ef9s6C5Ww==",
+  "dgSpecHash": "zQ9XBjGj2VwH+zYW2GIHnEsGSzpRPNWjNMXnKQTOHP65Xbj4QrzPwRmnLVjYDgMYeybzWzvaujQRrWNEtCJnnw==",
   "success": true,
   "projectFilePath": "D:\\workspaces\\MicroservicesWithRabbitMQ\\MicroRabbit\\MicroRabbit.Infra.Bus\\MicroRabbit.Infra.Bus.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\zeu\\.nuget\\packages\\mediatr\\8.0.1\\mediatr.8.0.1.nupkg.sha512",
-    "C:\\Users\\zeu\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
-    "C:\\Users\\zeu\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
     "C:\\Users\\zeu\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512",
-    "C:\\Users\\zeu\\.nuget\\packages\\rabbitmq.client\\6.0.0\\rabbitmq.client.6.0.0.nupkg.sha512",
-    "C:\\Users\\zeu\\.nuget\\packages\\system.buffers\\4.5.1\\system.buffers.4.5.1.nupkg.sha512",
+    "C:\\Users\\zeu\\.nuget\\packages\\rabbitmq.client\\6.1.0\\rabbitmq.client.6.1.0.nupkg.sha512",
     "C:\\Users\\zeu\\.nuget\\packages\\system.memory\\4.5.4\\system.memory.4.5.4.nupkg.sha512",
-    "C:\\Users\\zeu\\.nuget\\packages\\system.numerics.vectors\\4.4.0\\system.numerics.vectors.4.4.0.nupkg.sha512",
-    "C:\\Users\\zeu\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\4.5.3\\system.runtime.compilerservices.unsafe.4.5.3.nupkg.sha512"
+    "C:\\Users\\zeu\\.nuget\\packages\\system.threading.channels\\4.7.1\\system.threading.channels.4.7.1.nupkg.sha512"
   ],
   "logs": []
 }

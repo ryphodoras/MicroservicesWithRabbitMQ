@@ -1,11 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "5vu1IdKaPmEFDqWfTefGJAGAu5ewlQgosmeSSZMOR6KquvhecKmEhoj94fMeRLKEF621oT6DZ+vAn5m2e1Bwqw==",
+  "dgSpecHash": "Tiz2Xmqe3/WPqFVD46ECBzKuWsJt3gtmKWg943P2zwBGwSrG9wzNm+iq5CKHG1tg4bF/bBvfSm2RSmZGBhT57A==",
   "success": true,
   "projectFilePath": "D:\\workspaces\\MicroservicesWithRabbitMQ\\MicroRabbit\\MicroRabbit.Banking.Application\\MicroRabbit.Banking.Application.csproj",
-  "expectedPackageFiles": [
-    "C:\\Users\\zeu\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
-    "C:\\Users\\zeu\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
-  ],
+  "expectedPackageFiles": [],
   "logs": []
 }

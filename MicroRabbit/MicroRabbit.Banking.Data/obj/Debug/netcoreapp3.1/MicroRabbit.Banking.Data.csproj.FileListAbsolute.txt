@@ -1,0 +1,15 @@
+D:\workspaces\MicroservicesWithRabbitMQ\MicroRabbit\MicroRabbit.Banking.Data\bin\Debug\netcoreapp3.1\MicroRabbit.Banking.Data.deps.json
+D:\workspaces\MicroservicesWithRabbitMQ\MicroRabbit\MicroRabbit.Banking.Data\bin\Debug\netcoreapp3.1\MicroRabbit.Banking.Data.runtimeconfig.json
+D:\workspaces\MicroservicesWithRabbitMQ\MicroRabbit\MicroRabbit.Banking.Data\bin\Debug\netcoreapp3.1\MicroRabbit.Banking.Data.runtimeconfig.dev.json
+D:\workspaces\MicroservicesWithRabbitMQ\MicroRabbit\MicroRabbit.Banking.Data\bin\Debug\netcoreapp3.1\MicroRabbit.Banking.Data.dll
+D:\workspaces\MicroservicesWithRabbitMQ\MicroRabbit\MicroRabbit.Banking.Data\bin\Debug\netcoreapp3.1\MicroRabbit.Banking.Data.pdb
+D:\workspaces\MicroservicesWithRabbitMQ\MicroRabbit\MicroRabbit.Banking.Data\bin\Debug\netcoreapp3.1\MicroRabbit.Banking.Domain.dll
+D:\workspaces\MicroservicesWithRabbitMQ\MicroRabbit\MicroRabbit.Banking.Data\bin\Debug\netcoreapp3.1\MicroRabbit.Banking.Domain.pdb
+D:\workspaces\MicroservicesWithRabbitMQ\MicroRabbit\MicroRabbit.Banking.Data\obj\Debug\netcoreapp3.1\MicroRabbit.Banking.Data.csprojAssemblyReference.cache
+D:\workspaces\MicroservicesWithRabbitMQ\MicroRabbit\MicroRabbit.Banking.Data\obj\Debug\netcoreapp3.1\MicroRabbit.Banking.Data.AssemblyInfoInputs.cache
+D:\workspaces\MicroservicesWithRabbitMQ\MicroRabbit\MicroRabbit.Banking.Data\obj\Debug\netcoreapp3.1\MicroRabbit.Banking.Data.AssemblyInfo.cs
+D:\workspaces\MicroservicesWithRabbitMQ\MicroRabbit\MicroRabbit.Banking.Data\obj\Debug\netcoreapp3.1\MicroRabbit.Banking.Data.csproj.CoreCompileInputs.cache
+D:\workspaces\MicroservicesWithRabbitMQ\MicroRabbit\MicroRabbit.Banking.Data\obj\Debug\netcoreapp3.1\MicroRabbit.Banking.Data.csproj.CopyComplete
+D:\workspaces\MicroservicesWithRabbitMQ\MicroRabbit\MicroRabbit.Banking.Data\obj\Debug\netcoreapp3.1\MicroRabbit.Banking.Data.dll
+D:\workspaces\MicroservicesWithRabbitMQ\MicroRabbit\MicroRabbit.Banking.Data\obj\Debug\netcoreapp3.1\MicroRabbit.Banking.Data.pdb
+D:\workspaces\MicroservicesWithRabbitMQ\MicroRabbit\MicroRabbit.Banking.Data\obj\Debug\netcoreapp3.1\MicroRabbit.Banking.Data.genruntimeconfig.cache

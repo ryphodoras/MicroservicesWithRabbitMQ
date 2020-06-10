@@ -1,6 +1,11 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\MicroRabbit",
+    "\\MicroRabbit\\MicroRabbit.Domain.Core",
+    "\\MicroRabbit\\MicroRabbit.Domain.Core\\obj",
+    "\\MicroRabbit\\MicroRabbit.Infra.Bus"
   ],
+  "SelectedNode": "\\MicroRabbit\\MicroRabbit.sln",
   "PreviewInSolutionExplorer": false
 }
