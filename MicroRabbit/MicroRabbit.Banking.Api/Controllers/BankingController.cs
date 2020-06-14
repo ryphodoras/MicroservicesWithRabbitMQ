@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 using MicroRabbit.Banking.Application.Interfaces;
+using MicroRabbit.Banking.Application.Models;
 using MicroRabbit.Banking.Domain.Models;
 using Microsoft.AspNetCore.Mvc;
 
@@ -29,6 +30,12 @@ namespace MicroRabbit.Banking.Api.Controllers
         public void Save([FromBody] Account account)
         {
             _accountService.Save(account);
+        }
+
+        [HttpPost("transfers")]
+        public void Transfer([FromBody] AccountTransfer accountTransfer)
+        {
+            _accountService.Transfer(accountTransfer);
         }
     }
 }

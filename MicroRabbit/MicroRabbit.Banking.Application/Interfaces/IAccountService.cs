@@ -1,4 +1,5 @@
-﻿using MicroRabbit.Banking.Domain.Models;
+﻿using MicroRabbit.Banking.Application.Models;
+using MicroRabbit.Banking.Domain.Models;
 using System;
 using System.Collections.Generic;
 using System.Text;
@@ -9,5 +10,6 @@ namespace MicroRabbit.Banking.Application.Interfaces
     {
         IEnumerable<Account> GetAll();
         void Save(Account account);
+        void Transfer(AccountTransfer accountTransfer);
     }
 }
