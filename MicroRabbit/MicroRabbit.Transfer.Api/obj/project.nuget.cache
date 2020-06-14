@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "J/uH1gAa7PuVP2fnNKIPaVyvlPjxJhcXyB8XSrBCm8HefRW+qAsxSqZWGpbP0gbdprBjAH9K9djw6rOTp2HLPg==",
+  "success": true,
+  "projectFilePath": "D:\\workspaces\\MicroservicesWithRabbitMQ\\MicroRabbit\\MicroRabbit.Transfer.Api\\MicroRabbit.Transfer.Api.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\zeu\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.10.9\\microsoft.visualstudio.azure.containers.tools.targets.1.10.9.nupkg.sha512"
+  ],
+  "logs": []
+}

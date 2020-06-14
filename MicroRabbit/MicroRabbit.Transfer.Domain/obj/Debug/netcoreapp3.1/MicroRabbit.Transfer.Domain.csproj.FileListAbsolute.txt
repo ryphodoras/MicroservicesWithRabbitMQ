@@ -1,0 +1,8 @@
+D:\workspaces\MicroservicesWithRabbitMQ\MicroRabbit\MicroRabbit.Transfer.Domain\bin\Debug\netcoreapp3.1\MicroRabbit.Transfer.Domain.deps.json
+D:\workspaces\MicroservicesWithRabbitMQ\MicroRabbit\MicroRabbit.Transfer.Domain\bin\Debug\netcoreapp3.1\MicroRabbit.Transfer.Domain.dll
+D:\workspaces\MicroservicesWithRabbitMQ\MicroRabbit\MicroRabbit.Transfer.Domain\bin\Debug\netcoreapp3.1\MicroRabbit.Transfer.Domain.pdb
+D:\workspaces\MicroservicesWithRabbitMQ\MicroRabbit\MicroRabbit.Transfer.Domain\obj\Debug\netcoreapp3.1\MicroRabbit.Transfer.Domain.AssemblyInfoInputs.cache
+D:\workspaces\MicroservicesWithRabbitMQ\MicroRabbit\MicroRabbit.Transfer.Domain\obj\Debug\netcoreapp3.1\MicroRabbit.Transfer.Domain.AssemblyInfo.cs
+D:\workspaces\MicroservicesWithRabbitMQ\MicroRabbit\MicroRabbit.Transfer.Domain\obj\Debug\netcoreapp3.1\MicroRabbit.Transfer.Domain.csproj.CoreCompileInputs.cache
+D:\workspaces\MicroservicesWithRabbitMQ\MicroRabbit\MicroRabbit.Transfer.Domain\obj\Debug\netcoreapp3.1\MicroRabbit.Transfer.Domain.dll
+D:\workspaces\MicroservicesWithRabbitMQ\MicroRabbit\MicroRabbit.Transfer.Domain\obj\Debug\netcoreapp3.1\MicroRabbit.Transfer.Domain.pdb
